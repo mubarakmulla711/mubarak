@@ -1,4 +1,4 @@
 # mubarak
 This is my first repository
 <br>
-Author - mubarak m m.
+Author - mubarak m m
